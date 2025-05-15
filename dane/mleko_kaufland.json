@@ -16,6 +16,22 @@
     "cena": "18,67 zł"
   },
   {
+    "nazwa": "Nestlé Nido pełne mleko w proszku 400g Dos",
+    "cena": "79,08 zł"
+  },
+  {
+    "nazwa": "Bärenmarke Der Genussvolle Traum delikatna śmietanka do kawy 8% tłuszczu 340g",
+    "cena": "16,28 zł"
+  },
+  {
+    "nazwa": "Bärenmarke Leichte Die Leichte 4",
+    "cena": "7,20 zł"
+  },
+  {
+    "nazwa": "Polmlek Uchate Mleko Uht 2,0% 1 L",
+    "cena": "4,69 zł"
+  },
+  {
     "nazwa": "Naarmann H Mleko 3,5 zawartości tłuszczu mleko pełne ultra podgrzane 1000ml",
     "cena": "8,08 zł"
   },
@@ -25,22 +41,118 @@
   },
   {
     "nazwa": "Kara Krem Kokosowy Uht 1 L",
-    "cena": "74,01 zł"
+    "cena": "56,91 zł"
+  },
+  {
+    "nazwa": "MLEKO KOZIE BEZ LAKTOZY 500 ml - DANMIS",
+    "cena": "11,68 zł"
+  },
+  {
+    "nazwa": "Milram Moin bananowy napój mleczny z wapniem 500ml",
+    "cena": "4,15 zł"
+  },
+  {
+    "nazwa": "Mleko o przedłużonej trwałości Bärenmarke 3,8% tłuszczu, bardzo wysoka temperatura 1000ml",
+    "cena": "13,51 zł"
+  },
+  {
+    "nazwa": "Wysoko pasteryzowane mleko kozie 0,5L Danmis",
+    "cena": "10,69 zł"
   },
   {
     "nazwa": "Krem kokosowy",
-    "cena": "26,94 zł"
+    "cena": "27,28 zł"
   },
   {
-    "nazwa": "Naarmann H mleko 1,5 zawartość tłuszczu ultra wysoka temperatura 1000ml",
-    "cena": "7,33 zł"
+    "nazwa": "Meggle Creme Patisserie niesłodzona alternatywa bitej śmietany 1000ml",
+    "cena": "20,07 zł"
   },
   {
-    "nazwa": "Alpro Barista napój kokosowy czysto roślinny do spieniania UHT 1000 ml",
-    "cena": "14,74 zł"
+    "nazwa": "Debic Profi bita śmietana słodzona z praktyczną głowicą rozpylającą 700ml",
+    "cena": "47,06 zł"
+  },
+  {
+    "nazwa": "ArlaH Mleko pełne 1,5 z delikatnego mleka wierzbowego o przedłużonej trwałości 1000ml",
+    "cena": "6,53 zł"
+  },
+  {
+    "nazwa": "Naarmann mleko pełne bez laktozy H zakrętka 1000ml",
+    "cena": "9,76 zł"
+  },
+  {
+    "nazwa": "Frischli Cappuccino z mlekiem 2,5% dobry specjał kawowy 1000ml",
+    "cena": "8,59 zł"
+  },
+  {
+    "nazwa": "ArlaH Mleko pełne 3,8 z delikatnego mleka wierzbowego o przedłużonej trwałości 1000ml",
+    "cena": "7,20 zł"
   },
   {
     "nazwa": "Debic Profi bita śmietana z praktyczną głowicą natryskową niesłodzona 700ml",
-    "cena": "62,41 zł"
+    "cena": "45,25 zł"
+  },
+  {
+    "nazwa": "MILRAM śmietana do ubijania o przedłużonej trwałości, składany karton o bardzo wysokiej temperaturze 1000ml",
+    "cena": "25,60 zł"
+  },
+  {
+    "nazwa": "Alpro Soya Drink bez cukru czysto roślinny całkowicie niesłodzony 1000ml",
+    "cena": "12,41 zł"
+  },
+  {
+    "nazwa": "Alpro napój kokosowy niesłodzony z wapniem i witaminami 1000 ml",
+    "cena": "19,19 zł"
+  },
+  {
+    "nazwa": "Naarmann Kaffeesahne 1130 10Prozent 1.000g",
+    "cena": "15,04 zł"
+  },
+  {
+    "nazwa": "Alpro Soya Drink Naturalny, czysto roślinny i pełen białka1000ml",
+    "cena": "12,41 zł"
+  },
+  {
+    "nazwa": "HELLMA Śmietanka do kawy 500x 2,5 g",
+    "cena": "118,04 zł"
+  },
+  {
+    "nazwa": "Bären Marke Kaffeetraum mleko skondensowane kremowe mleko kawowe 160ml",
+    "cena": "9,40 zł"
+  },
+  {
+    "nazwa": "Frischli maślanka produkt urozmaicony napój 1000ml",
+    "cena": "10,70 zł"
+  },
+  {
+    "nazwa": "Alpro napój kokosowy z ryżem z wapniem wegański oryginalny 1000 ml",
+    "cena": "17,30 zł"
+  },
+  {
+    "nazwa": "Ekologiczny zamiennik śmietany beszamelowej EcoMil Cuisine 200ml",
+    "cena": "73,99 zł"
+  },
+  {
+    "nazwa": "Napój Orkiszowy Bez Dodatku Cukrów1 L - Natumi",
+    "cena": "18,99 zł"
+  },
+  {
+    "nazwa": "Łaciate Milk Uht Bez Laktozy 3,2 % 1 L",
+    "cena": "9,69 zł"
+  },
+  {
+    "nazwa": "25 kg Pełne mleko w proszku suszone rozpyłowo Mleko w proszku do pieczenia Pełne mleko w proszku 25 kg",
+    "cena": "804,96 zł"
+  },
+  {
+    "nazwa": "5 kg Pełne mleko w proszku suszone rozpyłowo Mleko w proszku do pieczenia 5 kg",
+    "cena": "208,66 zł"
+  },
+  {
+    "nazwa": "Bärenmarke mleko o przedłużonej trwałości 1,5% tłuszczu niskotłuszczowe ultra wysoka temperatura 1000ml",
+    "cena": "12,83 zł"
+  },
+  {
+    "nazwa": "Debic Profi bita śmietana z praktyczną głowicą natryskową niesłodzona 700ml",
+    "cena": "45,25 zł"
   }
 ]
